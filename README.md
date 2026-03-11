@@ -23,7 +23,9 @@ This is an early draft of a personal project. I am still deciding what to build 
 ## Project Structure
 
 PersonalProject/
+
 ├── frontend/
+
 └── backend/
 
 ## How to Run
@@ -31,11 +33,15 @@ PersonalProject/
 Frontend
 
 cd frontend
+
 npm install
+
 npm run dev
 
 Backend
 
 cd backend
+
 composer install
+
 php artisan serve
