@@ -1,2 +1,2 @@
 # PersonalProject
-This is a draft of a personal project. I am still thinking about what to develop and which programming language and framework to choose.
+03/11/26 This is a draft of a personal project. I am still thinking about what to develop and which programming language and framework to choose.
